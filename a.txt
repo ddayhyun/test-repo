@@ -8,3 +8,4 @@ master
 foo
 >>>>>>> foo
 D
+F
