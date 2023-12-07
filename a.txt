@@ -1,5 +1,9 @@
 A
 B
 C
+<<<<<<< HEAD
 E
 master
+=======
+foo
+>>>>>>> foo
